@@ -1,6 +1,6 @@
 # homebridge-octoprint-plus
 
-Plugin to support [OctoPrint](https://octopi.octoprint.org) 3D printer control via the [HomeBridge Platform](https://github.com/nfarina/homebridge). Builds on the original [homebridge-octoprint]() by allowing pausing/resuming of prints, not just cancelling.
+Plugin to support [OctoPrint](https://octopi.octoprint.org) 3D printer control via the [HomeBridge Platform](https://github.com/nfarina/homebridge). Builds on the original [homebridge-octoprint](https://github.com/MoeweX/homebridge-octoprint) from MoeweX by allowing pausing/resuming of prints, not just cancelling.
 
 # Installation
 

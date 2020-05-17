@@ -8,8 +8,8 @@
     "description": "HomeBridge OctoPrint Plugin",
     "accessories": [
         {
-            "accessory": "OctoPrint",
-            "name": "OctoPrint",
+            "accessory": "OctoPrintPlus",
+            "name": "PrinterName",
             "api_key": "XXXXX"
         }
     ]
